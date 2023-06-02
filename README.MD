@@ -1,1 +1,1 @@
-Delete visualize_annotations directory and run visualize_annotations
+Delete visualize_annotations directory and run visualize_annotations.py
